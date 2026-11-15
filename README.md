@@ -1,30 +1,22 @@
 # Claude Duet Free Desktop
 
-**Claude Duet Free Desktop v1.0** pairs anthropic duet workflows in a free client, searched as claude duet anthropic and claude duet app. It covers claude duet sign up steps, UK routing, and shared prompt canvases without a paid seat.
+> Collaborative prompt canvases and side-by-side co-editing for Anthropic Duet workflows in a free desktop shell.
 
-<img width="554" height="554" alt="images1" src="https://github.com/user-attachments/assets/939b35a4-92a7-47c2-bc51-9d6a8c286605" />
-<img width="1536" height="1024" alt="images2" src="https://github.com/user-attachments/assets/9cac89db-528a-46d0-8338-e45aa5d7b905" />
+<img width="554" height="554" alt="images1" src="https://github.com/user-attachments/assets/8271dfa1-f9f9-4399-9600-4aaf792e7561" />
+<img width="1536" height="1024" alt="images2" src="https://github.com/user-attachments/assets/acdaccf1-c5a7-400f-8838-707b7a5da441" />
+<img width="320" height="180" alt="images3" src="https://github.com/user-attachments/assets/198d43a2-621f-4bd2-9eec-cad882f6dd1b" />
 
-## Co-Editing & Canvas Modes
-| Workspace Mode | Best For | Context Behavior |
+## Workspace Capabilities
+| Mode | Primary Use | Session State |
 | --- | --- | --- |
-| Paired Canvas | Drafting docs and side-by-side diffs | Live inline edits without re-prompting |
-| Duet Chat Stream | Rapid Q&A and code review | Preserves turn history across branches |
+| Shared Canvas | Live inline document and code diffs | Edits apply in place without re-sending context |
+| Duet Thread | Multi-turn Q&A and repository review | Keeps branch history across US/UK/EU endpoints |
+<img width="780" height="438" alt="images5" src="https://github.com/user-attachments/assets/009ef25c-9cc4-4f31-8801-e367d5e1bad4" />
+<img width="1066" height="600" alt="images4" src="https://github.com/user-attachments/assets/b3dd8b5e-829b-4790-b192-260ee241a806" />
 
-  <img width="320" height="180" alt="images3" src="https://github.com/user-attachments/assets/17084262-7ba5-4e7c-802c-f4c17cb19bce" />
-<img width="1066" height="600" alt="images4" src="https://github.com/user-attachments/assets/993efc3b-060c-42dc-b333-0913c3fd3914" />
+### Quick Sign-Up & Token Link
+1. Unpack the client directory and start the desktop binary.
+2. Complete `claude duet sign up` or paste an existing free session token.
+3. Pin local source files onto the canvas to co-edit without a paid seat.
 
-## Connecting Your Workspace
-1. Unpack the desktop folder and launch the Duet binary.
-2. Complete the claude duet sign up flow or link an existing token.
-3. Open a shared canvas and pin reference files.
-4. Inspect `files/notes/` for regional routing tips.
-
-<img width="780" height="438" alt="images5" src="https://github.com/user-attachments/assets/213bc35c-2afa-456a-8793-a6ac2a19cf06" />
-
-## Duet Session Questions
-**Does it require an Enterprise seat?**
-No. The free desktop client connects through standard user tokens.
-
-
-<img width="739" height="415" alt="images6" src="https://github.com/user-attachments/assets/5266659c-0e72-4265-9d0c-92509c6e63fe" />
+<img width="739" height="415" alt="images6" src="https://github.com/user-attachments/assets/fd76d729-82cf-482a-bb36-33809d99116d" />
